@@ -84,16 +84,19 @@ Changes to be committed means the file is in staging area and changes need to ci
     git init 'repository name'      
 
 ### 13. Git diff  
-#### This command is use push the file in the repository.
+#### we can find the differance between two branches by using this comman.
 #### The command is    
+    git diff 'branch 1' 'branch 2'    
     
 
 ### 14. Git reset  
-#### This command is use push the file in the repository.
+#### This command unstages the file, but it preserves the file contents.    
 #### The command is    
+    git reset 'file name'
     
 
 ### 15. Git pull  
-#### This command is use push the file in the repository.
-#### The command is    
+#### The git pull command first runs ‘git fetch’ which downloads the content from the specified remote repository and then immediately updates the local repo to match the content.    
+ #### The command is    
+    git pull origin main
     
