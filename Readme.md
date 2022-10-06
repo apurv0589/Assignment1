@@ -24,7 +24,7 @@
     Changes not staged for commit:
     Changes to be committed:   
 Changes not staged for commit means you need to add that file in staging area with git add 'file name' command.
-![image](https://user-images.githubusercontent.com/52498255/194312280-8cb3b900-cb72-42e2-abe0-33c2e5c5cfdc.JPG)
+![image](https://user-images.githubusercontent.com/52498255/194312280-8cb3b900-cb72-42e2-abe0-33c2e5c5cfdc.JPG)     
 Changes to be committed means the file is in staging area and changes need to cimmit by using git commit -m'message'.   
 ![image](https://user-images.githubusercontent.com/52498255/194312493-4ad6b62a-0c19-4b10-b3d4-08a044aa2af5.JPG)
 
