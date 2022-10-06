@@ -69,12 +69,12 @@ Changes to be committed means the file is in staging area and changes need to ci
 ### 10. Git log   
 #### This command is use push the file in the repository.
 #### The command is    
-    git push origin main
+    
 
 ### 11. Git clone   
 #### This command is use push the file in the repository.
 #### The command is    
-    git push origin main
+    
 
 ### 12. Git init  
 #### This command is use to initialise the git repository.
@@ -84,14 +84,14 @@ Changes to be committed means the file is in staging area and changes need to ci
 ### 13. Git diff  
 #### This command is use push the file in the repository.
 #### The command is    
-    git push origin main   
+    
 
 ### 14. Git reset  
 #### This command is use push the file in the repository.
 #### The command is    
-    git push origin main   
+    
 
 ### 15. Git pull  
 #### This command is use push the file in the repository.
 #### The command is    
-    git push origin main 
+    
