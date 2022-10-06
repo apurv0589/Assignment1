@@ -1,4 +1,4 @@
-# Assignment-1 
+# Inuron Assignment-1 
 ## Task1 - 15 Git command
 ### 1. Git Config
 #### For Commiting in Git first you have to configure it for user name and user email address with respect to your git account
