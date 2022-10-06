@@ -5,4 +5,4 @@
 "To configure user and Email Address you can use\n git config –-global user.name 'name' for user name \n git config –-global user.email'email address' for Email address"
 "To check configured user and Email Address you can use\n git config –-global user.name for user name \n git config –-global user.email address' for Email address"
 
-### 2. Git init
+### 2. Git init 
