@@ -5,7 +5,8 @@
 #### To configure user and Email Address you can use   
     git config –-global user.name 'name' for user name
     git config –-global user.email'email address' for Email address
-    https://user-images.githubusercontent.com/52498255/194310817-259af903-ac8e-4600-876f-cafd1049c62c.JPG)
+    
+    ![image](https://user-images.githubusercontent.com/52498255/194310817-259af903-ac8e-4600-876f-cafd1049c62c.JPG)
 #### To check configured user and Email Address you can use    
     git config –-global user.name for user name    
     git config –-global user.email address' for Email address
