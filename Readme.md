@@ -73,8 +73,9 @@ Changes to be committed means the file is in staging area and changes need to ci
     
 
 ### 11. Git clone   
-#### This command is use push the file in the repository.
+#### This command is use to import the files of a project from the remote repository of some other developer to our local system.    
 #### The command is    
+    git clone 'repository url'
     
 
 ### 12. Git init  
