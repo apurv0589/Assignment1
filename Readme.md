@@ -67,8 +67,9 @@ Changes to be committed means the file is in staging area and changes need to ci
     git merge 'branch_name'     
 
 ### 10. Git log   
-#### This command is use push the file in the repository.
-#### The command is    
+#### This command is used when we want to check the log for every commit in detail in our repository.
+#### The command is   
+    git log    
     
 
 ### 11. Git clone   
